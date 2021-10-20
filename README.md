@@ -10,6 +10,8 @@
 - g++ -o logger.exe logger.cpp
 
 
+### USE IT FOR EDUCATIONAL PURPOSE ONLY
+
 ### Developer 
 
 [Asjad Personal Site](https://www.asjadowo.xyz/)
